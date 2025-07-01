@@ -3218,21 +3218,39 @@
     },
     "done": true
   },
+  "minecraft:adventure/use_lodestone": {
+    "criteria": {
+      "use_lodestone": "2025-07-01 19:08:53 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2025-07-01 19:23:02 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2025-07-01 19:23:02 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/pink_dye_from_pink_petals": {
     "criteria": {
       "has_pink_petals": "2025-07-01 19:23:43 +0800"
     },
     "done": true
   },
-  "minecraft:recipes/food/dried_kelp_from_smoking": {
+  "minecraft:husbandry/silk_touch_nest": {
     "criteria": {
-      "has_kelp": "2025-07-01 19:30:39 +0800"
+      "silk_touch_nest": "2025-07-01 19:24:30 +0800"
     },
     "done": true
   },
-  "minecraft:adventure/use_lodestone": {
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
     "criteria": {
-      "use_lodestone": "2025-07-01 19:08:53 +0800"
+      "has_kelp": "2025-07-01 19:30:39 +0800"
     },
     "done": true
   },
@@ -3248,27 +3266,9 @@
     },
     "done": true
   },
-  "minecraft:husbandry/silk_touch_nest": {
-    "criteria": {
-      "silk_touch_nest": "2025-07-01 19:24:30 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cherry_planks": {
-    "criteria": {
-      "has_log": "2025-07-01 19:23:02 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_hay_block": "2025-07-01 19:36:00 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cherry_wood": {
-    "criteria": {
-      "has_log": "2025-07-01 19:23:02 +0800"
     },
     "done": true
   },
