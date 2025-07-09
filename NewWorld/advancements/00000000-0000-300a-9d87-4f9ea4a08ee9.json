@@ -614,6 +614,7 @@
       "beetroot_soup": "2025-06-23 20:15:27 +0800",
       "cooked_rabbit": "2025-06-22 10:12:11 +0800",
       "cooked_chicken": "2025-06-21 10:42:08 +0800",
+      "cooked_cod": "2025-07-08 20:00:42 +0800",
       "mushroom_stew": "2025-06-23 19:54:57 +0800",
       "poisonous_potato": "2025-06-23 20:14:55 +0800",
       "pumpkin_pie": "2025-06-21 10:47:31 +0800"
@@ -3623,6 +3624,24 @@
   "minecraft:recipes/redstone/cherry_door": {
     "criteria": {
       "has_planks": "2025-07-05 22:47:58 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2025-07-08 19:56:05 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_hyphae": {
+    "criteria": {
+      "has_log": "2025-07-08 19:56:05 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_sunflower": "2025-07-08 20:10:48 +0800"
     },
     "done": true
   },
